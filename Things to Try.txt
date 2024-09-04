@@ -1,0 +1,32 @@
+
+(YouTube Video by "The Coding Train", Daniel Shiffman)
+(YouTube Video Name: "Coding Challenge 124: Flocking Simulation")
+
+Boids: Sound like Birds
+
+1. Snapshot of all velocity
+
+2. Optimization
+ -Quadtree
+ -Subdivision
+
+3. Interface
+ -Perception radius
+ -Maximum force
+ -Maximum speed
+ 
+4. Design of Boids
+ -Triangle
+ -Flapping Butterfly
+ -Tadpole-like
+
+5. 3D (Hint: Quaternian)
+
+6. Boids with Different Parameters
+
+7. Boid-Views
+ -Degree-of-View
+ 
+8. Obsticals
+
+9. Other Forces
